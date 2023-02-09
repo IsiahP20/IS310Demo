@@ -1,1 +1,1 @@
-# IS310Demo
+# IS310DemoThis class is cool
